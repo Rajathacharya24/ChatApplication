@@ -52,14 +52,6 @@ Start the server:
 ```bash
 python server.py
 ```
-
-After startup:
-
-- Frontend: `http://localhost:3000`
-
-
-Open `http://localhost:3000` in your browser, enter a username, and start chatting.
-
 ## How It Works
 
 - The HTTP server serves the frontend from `public/`.
